@@ -1,8 +1,8 @@
 # Scala List Extended
 
 This little project contains extension methods for Scala List
-(like *intersperse* and *intercalate*) which Haskell provides in
-it's List implementation and Scala doesn't provide in the
+(like *zipWith*, *intersperse* and *intercalate* etc.) which Haskell provides
+in it's List implementation but Scala doesn't provide in the
 standard library.
 
 The inspiration for this project came from reading the online
